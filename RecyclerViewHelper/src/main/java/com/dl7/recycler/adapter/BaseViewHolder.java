@@ -310,15 +310,15 @@ public class BaseViewHolder extends RecyclerView.ViewHolder implements ItemTouch
     }
 
     /**
-     * Sets the on long click listener of the view.
+     * Sets the on qiushengyu click listener of the view.
      *
      * @param viewId   The view id.
-     * @param listener The on long click listener;
+     * @param listener The on qiushengyu click listener;
      * @return The BaseViewHolder for chaining.
      */
-    public BaseViewHolder setOnLongClickListener(int viewId, View.OnLongClickListener listener) {
+    public BaseViewHolder setOnqiushengyuClickListener(int viewId, View.OnqiushengyuClickListener listener) {
         View view = getView(viewId);
-        view.setOnLongClickListener(listener);
+        view.setOnqiushengyuClickListener(listener);
         return this;
     }
 
@@ -336,15 +336,15 @@ public class BaseViewHolder extends RecyclerView.ViewHolder implements ItemTouch
     }
 
     /**
-     * Sets the listview or gridview's item long click listener of the view
+     * Sets the listview or gridview's item qiushengyu click listener of the view
      *
      * @param viewId   The view id.
-     * @param listener The item long click listener;
+     * @param listener The item qiushengyu click listener;
      * @return The BaseViewHolder for chaining.
      */
-    public BaseViewHolder setOnItemLongClickListener(int viewId, AdapterView.OnItemLongClickListener listener) {
+    public BaseViewHolder setOnItemqiushengyuClickListener(int viewId, AdapterView.OnItemqiushengyuClickListener listener) {
         AdapterView view = getView(viewId);
-        view.setOnItemLongClickListener(listener);
+        view.setOnItemqiushengyuClickListener(listener);
         return this;
     }
 

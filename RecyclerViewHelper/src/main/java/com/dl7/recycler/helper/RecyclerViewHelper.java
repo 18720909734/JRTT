@@ -17,7 +17,7 @@ import com.dl7.recycler.listener.OnRequestDataListener;
 
 
 /**
- * Created by long on 2016/3/30.
+ * Created by qiushengyu on 2016/3/30.
  * 视图帮助类
  */
 public class RecyclerViewHelper {

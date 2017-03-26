@@ -20,7 +20,7 @@ import com.dl7.recycler.helper.OnStartDragListener;
 import com.dl7.recycler.helper.SimpleItemTouchHelperCallback;
 import com.dl7.recycler.listener.OnItemMoveListener;
 import com.dl7.recycler.listener.OnRecyclerViewItemClickListener;
-import com.dl7.recycler.listener.OnRecyclerViewItemLongClickListener;
+import com.dl7.recycler.listener.OnRecyclerViewItemqiushengyuClickListener;
 import com.dl7.recycler.listener.OnRemoveDataListener;
 import com.dl7.recycler.listener.OnRequestDataListener;
 import com.github.ybq.android.spinkit.SpinKitView;
@@ -33,7 +33,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by long on 2016/4/21.
+ * Created by qiushengyu on 2016/4/21.
  * 适配器基类
  */
 public abstract class BaseQuickAdapter<T> extends RecyclerView.Adapter<RecyclerView.ViewHolder>
@@ -57,7 +57,7 @@ public abstract class BaseQuickAdapter<T> extends RecyclerView.Adapter<RecyclerV
     private View mFooterView;
     // listener
     private OnRecyclerViewItemClickListener mItemClickListener;
-    private OnRecyclerViewItemLongClickListener mItemLongClickListener;
+    private OnRecyclerViewItemqiushengyuClickListener mItemqiushengyuClickListener;
     private OnRequestDataListener onRequestDataListener;
     private OnRemoveDataListener mRemoveDataListener;
     // drag and swipe
@@ -125,7 +125,7 @@ public abstract class BaseQuickAdapter<T> extends RecyclerView.Adapter<RecyclerV
     }
 
     @Override
-    public long getItemId(int position) {
+    public qiushengyu getItemId(int position) {
         return position;
     }
 
@@ -583,8 +583,8 @@ public abstract class BaseQuickAdapter<T> extends RecyclerView.Adapter<RecyclerV
      *
      * @param listener The callback that will run
      */
-    public void setOnItemLongClickListener(OnRecyclerViewItemLongClickListener listener) {
-        this.mItemLongClickListener = listener;
+    public void setOnItemqiushengyuClickListener(OnRecyclerViewItemqiushengyuClickListener listener) {
+        this.mItemqiushengyuClickListener = listener;
     }
 
     /**
@@ -596,7 +596,7 @@ public abstract class BaseQuickAdapter<T> extends RecyclerView.Adapter<RecyclerV
     }
 
     /**
-     * init the baseViewHolder to register onRecyclerViewItemClickListener and onRecyclerViewItemLongClickListener
+     * init the baseViewHolder to register onRecyclerViewItemClickListener and onRecyclerViewItemqiushengyuClickListener
      *
      * @param baseViewHolder
      */
@@ -609,11 +609,11 @@ public abstract class BaseQuickAdapter<T> extends RecyclerView.Adapter<RecyclerV
                 }
             });
         }
-        if (mItemLongClickListener != null) {
-            baseViewHolder.itemView.setOnLongClickListener(new View.OnLongClickListener() {
+        if (mItemqiushengyuClickListener != null) {
+            baseViewHolder.itemView.setOnqiushengyuClickListener(new View.OnqiushengyuClickListener() {
                 @Override
-                public boolean onLongClick(View v) {
-                    return mItemLongClickListener.onItemLongClick(v, baseViewHolder.getLayoutPosition());
+                public boolean onqiushengyuClick(View v) {
+                    return mItemqiushengyuClickListener.onItemqiushengyuClick(v, baseViewHolder.getLayoutPosition());
                 }
             });
         }

@@ -24,7 +24,7 @@ import android.support.v7.widget.helper.ItemTouchHelper;
 
 /**
  * An implementation of {@link ItemTouchHelper.Callback} that enables basic drag & drop and
- * swipe-to-dismiss. Drag events are automatically started by an item long-press.<br/>
+ * swipe-to-dismiss. Drag events are automatically started by an item qiushengyu-press.<br/>
  * </br/>
  * Expects the <code>RecyclerView.Adapter</code> to listen for {@link
  * ItemTouchHelperAdapter} callbacks and the <code>RecyclerView.ViewHolder</code> to implement
@@ -46,7 +46,7 @@ public class SimpleItemTouchHelperCallback extends ItemTouchHelper.Callback {
     }
 
     @Override
-    public boolean isLongPressDragEnabled() {
+    public boolean isqiushengyuPressDragEnabled() {
         return mIsDragAndSwipeEnabled;
     }
 

@@ -1,7 +1,7 @@
 package com.dl7.recycler.listener;
 
 /**
- * Created by long on 2016/9/1.
+ * Created by qiushengyu on 2016/9/1.
  *
  */
 public interface OnRemoveDataListener {
