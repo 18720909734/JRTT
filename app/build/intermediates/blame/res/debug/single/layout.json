@@ -1,0 +1,566 @@
+[
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_news_photo_set.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\adapter_news_photo_set.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_pull_scrollview_foot.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\layout_pull_scrollview_foot.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news_article.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\activity_news_article.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_left.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_left.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\activity_special.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_manage.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\adapter_manage.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_photo_pager.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\adapter_photo_pager.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photo_main.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\fragment_photo_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head_news_list.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\head_news_list.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video_main.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\fragment_video_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news_detail.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\activity_news_detail.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news_list.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\fragment_news_list.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_top_bar.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\MvpApp-master\\playerview\\unspecified\\res\\layout\\layout_top_bar.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_top_row.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_touch_gestures.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\MvpApp-master\\playerview\\unspecified\\res\\layout\\layout_touch_gestures.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_share.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\dialog_share.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_love.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\activity_love.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_popup.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\layout_popup.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_photo_set.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\adapter_photo_set.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_toolbar.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\layout_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_media_quality.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\MvpApp-master\\playerview\\unspecified\\res\\layout\\adapter_media_quality.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_player.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_display_leak.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_bubble.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.flyco.dialog\\FlycoDialog_Lib\\1.3.2\\res\\layout\\popup_bubble.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_layout.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head_special.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\head_special.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_heap_dump_toast.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news_main.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\fragment_news_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_file_list_item.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.github.angads25\\filepicker\\1.0.6\\res\\layout\\dialog_file_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_player_view.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\MvpApp-master\\playerview\\unspecified\\res\\layout\\layout_player_view.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_top.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_top.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_toolbar_transparent.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\layout_toolbar_transparent.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_set.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\activity_photo_set.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_bottom.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_video_love.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\adapter_video_love.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_news_list.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\adapter_news_list.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_file_list.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.github.angads25\\filepicker\\1.0.6\\res\\layout\\dialog_file_list.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_load_more.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\MvpApp-master\\RecyclerViewHelper\\unspecified\\res\\layout\\layout_load_more.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_channel.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\activity_channel.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_special_head.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\adapter_special_head.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_send_danmaku.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\MvpApp-master\\playerview\\unspecified\\res\\layout\\layout_send_danmaku.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_header.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.github.angads25\\filepicker\\1.0.6\\res\\layout\\dialog_header.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_skip_tip.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\MvpApp-master\\playerview\\unspecified\\res\\layout\\layout_skip_tip.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_download.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\fragment_download.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_footer.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.github.angads25\\filepicker\\1.0.6\\res\\layout\\dialog_footer.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_beauty_photos.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\adapter_beauty_photos.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_common_empty.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\layout_common_empty.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_love_list.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\fragment_love_list.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_empty_loading.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\layout_empty_loading.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_media_quality.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\MvpApp-master\\playerview\\unspecified\\res\\layout\\layout_media_quality.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_video_list.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\adapter_video_list.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_video_cache.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\adapter_video_cache.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_popup_bottom.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\layout_popup_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_no_data.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\layout_no_data.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_bottom_bar.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\MvpApp-master\\playerview\\unspecified\\res\\layout\\layout_bottom_bar.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_related_news.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\layout_related_news.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_base.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.flyco.dialog\\FlycoDialog_Lib\\1.3.2\\res\\layout\\popup_base.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_main.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.github.angads25\\filepicker\\1.0.6\\res\\layout\\dialog_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_big_photo.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\activity_big_photo.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_segment.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_segment.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_photo_list.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\adapter_photo_list.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_danmaku_input_options.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\MvpApp-master\\playerview\\unspecified\\res\\layout\\layout_danmaku_input_options.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_news_content.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\layout_news_content.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_download.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\dialog_download.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_digest.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\layout_digest.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_home.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_right.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.flyco.tablayout\\FlycoTabLayout_Lib\\2.1.0\\res\\layout\\layout_tab_right.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_download.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\activity_download.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_related_content.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\layout_related_content.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photo_list.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\fragment_photo_list.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_video_complete.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\adapter_video_complete.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_toolbar_news_detail.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\layout_toolbar_news_detail.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_row.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_leak_row.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_welfare_photo.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\layout\\adapter_welfare_photo.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    }
+]

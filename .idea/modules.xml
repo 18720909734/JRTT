@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JRTT.iml" filepath="$PROJECT_DIR$/JRTT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JRTT.iml" filepath="$PROJECT_DIR$/.idea/modules/JRTT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RecyclerViewHelper/RecyclerViewHelper.iml" filepath="$PROJECT_DIR$/.idea/modules/RecyclerViewHelper/RecyclerViewHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/downloaderLib/downloaderLib.iml" filepath="$PROJECT_DIR$/.idea/modules/downloaderLib/downloaderLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/playerview/playerview.iml" filepath="$PROJECT_DIR$/.idea/modules/playerview/playerview.iml" />
     </modules>
   </component>
 </project>

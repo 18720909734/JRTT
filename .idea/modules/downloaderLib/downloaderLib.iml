@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":downloaderLib" external.linked.project.path="$MODULE_DIR$/../../../downloaderLib" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="JRTT" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../../downloaderLib/build/classes/main" />
+    <output-test url="file://$MODULE_DIR$/../../../downloaderLib/build/classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../downloaderLib">
+      <excludeFolder url="file://$MODULE_DIR$/../../../downloaderLib/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../downloaderLib/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

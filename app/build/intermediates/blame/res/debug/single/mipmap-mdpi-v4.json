@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_type_file.png",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.github.angads25\\filepicker\\1.0.6\\res\\mipmap-mdpi-v4\\ic_type_file.png"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_type_folder.png",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.github.angads25\\filepicker\\1.0.6\\res\\mipmap-mdpi-v4\\ic_type_folder.png"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_directory_parent.png",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.github.angads25\\filepicker\\1.0.6\\res\\mipmap-mdpi-v4\\ic_directory_parent.png"
+    }
+]

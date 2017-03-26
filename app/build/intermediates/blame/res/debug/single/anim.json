@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_zoom_in.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\MvpApp-master\\playerview\\unspecified\\res\\anim\\dialog_zoom_in.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_exit.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\slide_right_exit.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out_entry.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\zoom_out_entry.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_bottom_exit.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\slide_bottom_exit.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in_entry.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\zoom_in_entry.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_zoom_out.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\MvpApp-master\\playerview\\unspecified\\res\\anim\\dialog_zoom_out.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_entry.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\slide_right_entry.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\expand_vertical_entry.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\expand_vertical_entry.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in_exit.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\zoom_in_exit.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\expand_vertical_exit.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\expand_vertical_exit.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\unmarked_item_animation.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.github.angads25\\filepicker\\1.0.6\\res\\anim\\unmarked_item_animation.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_top_exit.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\slide_top_exit.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\photo_entry.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\photo_entry.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\photo_exit.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\photo_exit.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_bottom_entry.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\slide_bottom_entry.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\marked_item_animation.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.github.angads25\\filepicker\\1.0.6\\res\\anim\\marked_item_animation.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_top_entry.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\slide_top_entry.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out_exit.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\zoom_out_exit.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_exit.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\fade_exit.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_entry.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\anim\\fade_entry.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nav_drawer.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\menu\\nav_drawer.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_animate.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\menu\\menu_animate.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_channel.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\menu\\menu_channel.xml"
+    },
+    {
+        "merged": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_love.xml",
+        "source": "E:\\Android_Code\\MVP+Rrtrofit+rxjava\\MvpApp-master\\MvpApp-master\\app\\src\\main\\res\\menu\\menu_love.xml"
+    }
+]
