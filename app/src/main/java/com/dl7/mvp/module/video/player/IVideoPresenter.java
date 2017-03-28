@@ -5,7 +5,7 @@ import com.dl7.mvp.local.table.VideoInfo;
 import com.dl7.mvp.module.base.ILocalPresenter;
 
 /**
- * Created by long on 2016/12/23.
+ * Created by qiushengyuon 2016/12/23.
  * Video Presenter
  */
 public interface IVideoPresenter extends ILocalPresenter<VideoInfo> {

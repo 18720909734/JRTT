@@ -28,7 +28,7 @@ import butterknife.BindView;
 import rx.functions.Action1;
 
 /**
- * Created by long on 2016/12/20.
+ * Created by qiushengyuon 2016/12/20.
  * 新闻主界面
  */
 public class NewsMainFragment extends BaseFragment<IRxBusPresenter> implements INewsMainView {

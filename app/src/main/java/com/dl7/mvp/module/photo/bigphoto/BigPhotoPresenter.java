@@ -18,7 +18,7 @@ import rx.functions.Action1;
 import rx.functions.Func1;
 
 /**
- * Created by long on 2016/9/27.
+ * Created by qiushengyuon 2016/9/27.
  * 大图 Presenter
  */
 public class BigPhotoPresenter implements ILocalPresenter<BeautyPhotoInfo> {

@@ -7,7 +7,7 @@ import com.dl7.mvp.module.photo.news.PhotoNewsFragment;
 import dagger.Component;
 
 /**
- * Created by long on 2016/9/5.
+ * Created by qiushengyuon 2016/9/5.
  * 图片新闻列表 Component
  */
 @PerFragment

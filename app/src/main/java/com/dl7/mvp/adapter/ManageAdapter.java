@@ -10,7 +10,7 @@ import com.dl7.recycler.adapter.BaseViewHolder;
 import java.util.List;
 
 /**
- * Created by long on 2016/8/31.
+ * Created by qiushengyuon 2016/8/31.
  * 管理界面适配器
  */
 public class ManageAdapter extends BaseQuickAdapter<NewsTypeInfo> {

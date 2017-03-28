@@ -9,7 +9,7 @@ import rx.Subscription;
 import rx.functions.Action1;
 
 /**
- * Created by long on 2016/9/23.
+ * Created by qiushengyuon 2016/9/23.
  * 图片专栏 Presenter
  */
 public class PhotoMainPresenter implements IRxBusPresenter {

@@ -16,7 +16,7 @@ import rx.functions.Action0;
 import rx.functions.Func1;
 
 /**
- * Created by long on 2016/8/23.
+ * Created by qiushengyuon 2016/8/23.
  * 新闻列表 Presenter
  */
 public class NewsListPresenter implements IBasePresenter {

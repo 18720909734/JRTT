@@ -3,7 +3,7 @@ package com.dl7.downloaderlib;
 import com.dl7.downloaderlib.entity.FileInfo;
 
 /**
- * Created by long on 2016/5/26.
+ * Created by qiushengyuon 2016/5/26.
  * 下载监听器
  */
 public interface DownloadListener {

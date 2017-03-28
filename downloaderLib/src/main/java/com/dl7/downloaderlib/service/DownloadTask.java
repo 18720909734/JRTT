@@ -25,7 +25,7 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 /**
- * Created by long on 2016/5/25.
+ * Created by qiushengyuon 2016/5/25.
  * 下载线程
  */
 public class DownloadTask implements Runnable {

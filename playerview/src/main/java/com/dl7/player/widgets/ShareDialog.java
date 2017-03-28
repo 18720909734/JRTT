@@ -19,7 +19,7 @@ import android.widget.TextView;
 import com.dl7.player.R;
 
 /**
- * Created by long on 2016/11/17.
+ * Created by qiushengyuon 2016/11/17.
  */
 
 public class ShareDialog extends DialogFragment {

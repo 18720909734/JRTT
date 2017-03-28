@@ -12,7 +12,7 @@ import rx.functions.Action0;
 import rx.functions.Action1;
 
 /**
- * Created by long on 2017/2/3.
+ * Created by qiushengyuon 2017/2/3.
  * 新闻详情 Presenter
  */
 public class NewsArticlePresenter implements IBasePresenter {

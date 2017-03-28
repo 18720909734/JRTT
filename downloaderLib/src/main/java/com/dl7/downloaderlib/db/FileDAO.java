@@ -3,7 +3,7 @@ package com.dl7.downloaderlib.db;
 import com.dl7.downloaderlib.entity.FileInfo;
 
 /**
- * Created by long on 2016/5/26.
+ * Created by qiushengyuon 2016/5/26.
  * 数据库访问接口
  */
 public interface FileDAO {

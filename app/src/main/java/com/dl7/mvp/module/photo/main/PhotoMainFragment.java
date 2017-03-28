@@ -29,7 +29,7 @@ import butterknife.OnClick;
 import rx.functions.Action1;
 
 /**
- * Created by long on 2016/12/20.
+ * Created by qiushengyuon 2016/12/20.
  * 图片主界面
  */
 public class PhotoMainFragment extends BaseFragment<IRxBusPresenter> implements IPhotoMainView {

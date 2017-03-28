@@ -8,7 +8,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * Created by long on 2016/12/13.
+ * Created by qiushengyuon 2016/12/13.
  * Video 事件
  */
 public class VideoEvent {

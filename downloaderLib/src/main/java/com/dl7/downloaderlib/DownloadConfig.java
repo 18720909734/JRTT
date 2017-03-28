@@ -6,7 +6,7 @@ import java.io.File;
 
 
 /**
- * Created by long on 2015/11/17.
+ * Created by qiushengyuon 2015/11/17.
  * 下载配置
  */
 public class DownloadConfig {

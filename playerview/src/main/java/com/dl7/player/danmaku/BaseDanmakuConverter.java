@@ -8,7 +8,7 @@ import master.flame.danmaku.danmaku.model.R2LDanmaku;
 import static master.flame.danmaku.danmaku.model.BaseDanmaku.TYPE_SCROLL_RL;
 
 /**
- * Created by long on 2016/12/22.
+ * Created by qiushengyuon 2016/12/22.
  * 弹幕转换器，用来进行自定义数据和弹幕的转换
  */
 public abstract class BaseDanmakuConverter<T extends BaseDanmakuData> {

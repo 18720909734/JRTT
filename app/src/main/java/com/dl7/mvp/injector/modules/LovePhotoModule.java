@@ -13,7 +13,7 @@ import dagger.Module;
 import dagger.Provides;
 
 /**
- * Created by long on 2016/12/13.
+ * Created by qiushengyuon 2016/12/13.
  * 图片收藏界面 Module
  */
 @Module

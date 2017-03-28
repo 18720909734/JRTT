@@ -9,7 +9,7 @@ import com.dl7.mvp.R;
 import com.dl7.mvp.module.manage.download.DownloadActivity;
 
 /**
- * Created by long on 2016/12/29.
+ * Created by qiushengyuon 2016/12/29.
  * Snackbar 工具
  */
 public final class SnackbarUtils {

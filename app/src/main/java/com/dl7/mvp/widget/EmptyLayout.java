@@ -21,7 +21,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 /**
- * Created by long on 2016/8/23.
+ * Created by qiushengyuon 2016/8/23.
  * 加载、空视图
  */
 public class EmptyLayout extends FrameLayout {

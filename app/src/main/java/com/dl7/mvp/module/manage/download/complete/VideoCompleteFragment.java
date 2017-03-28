@@ -20,7 +20,7 @@ import jp.wasabeef.recyclerview.animators.SlideInLeftAnimator;
 import rx.functions.Action1;
 
 /**
- * Created by long on 2016/12/16.
+ * Created by qiushengyuon 2016/12/16.
  * video 缓存完成列表
  */
 public class VideoCompleteFragment extends BaseVideoDLFragment<IRxBusPresenter> implements ILocalView<VideoInfo> {

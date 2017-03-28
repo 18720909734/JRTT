@@ -15,7 +15,7 @@ import com.dl7.recycler.adapter.BaseViewHolder;
 import java.util.List;
 
 /**
- * Created by long on 2016/10/11.
+ * Created by qiushengyuon 2016/10/11.
  */
 
 public class VideoListAdapter extends BaseQuickAdapter<VideoInfo> {

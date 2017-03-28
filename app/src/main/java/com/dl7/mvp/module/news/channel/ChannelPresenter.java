@@ -18,7 +18,7 @@ import rx.functions.Func1;
 import rx.schedulers.Schedulers;
 
 /**
- * Created by long on 2016/9/1.
+ * Created by qiushengyuon 2016/9/1.
  * 栏目管理 Presenter
  */
 public class ChannelPresenter implements IChannelPresenter<NewsTypeInfo> {

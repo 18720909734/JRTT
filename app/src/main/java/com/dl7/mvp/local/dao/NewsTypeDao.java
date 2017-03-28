@@ -11,7 +11,7 @@ import com.dl7.mvp.utils.GsonHelper;
 import java.util.List;
 
 /**
- * Created by long on 2016/8/31.
+ * Created by qiushengyuon 2016/8/31.
  * 新闻分类数据访问
  */
 public class NewsTypeDao {

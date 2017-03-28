@@ -1,7 +1,7 @@
 package com.dl7.player.danmaku;
 
 /**
- * Created by long on 2016/12/22.
+ * Created by qiushengyuon 2016/12/22.
  * 弹幕数据基类，用来限定弹幕类型
  */
 public abstract class BaseDanmakuData {

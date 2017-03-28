@@ -19,7 +19,7 @@ import rx.functions.Func1;
 import rx.functions.Func2;
 
 /**
- * Created by long on 2016/8/26.
+ * Created by qiushengyuon 2016/8/26.
  * 专题 Presenter
  */
 public class SpecialPresenter implements IBasePresenter {

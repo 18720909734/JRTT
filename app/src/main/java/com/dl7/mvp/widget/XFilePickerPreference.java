@@ -11,7 +11,7 @@ import com.github.angads25.filepicker.view.FilePickerPreference;
 import java.io.File;
 
 /**
- * Created by long on 2016/9/30.
+ * Created by qiushengyuon 2016/9/30.
  * 对 FilePickerPreference 做一些修改
  */
 public class XFilePickerPreference extends FilePickerPreference {

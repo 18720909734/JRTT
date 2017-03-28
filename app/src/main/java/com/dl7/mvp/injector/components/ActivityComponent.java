@@ -8,7 +8,7 @@ import com.dl7.mvp.injector.modules.ActivityModule;
 import dagger.Component;
 
 /**
- * Created by long on 2016/8/19.
+ * Created by qiushengyuon 2016/8/19.
  */
 @PerActivity
 @Component(dependencies = ApplicationComponent.class, modules = ActivityModule.class)

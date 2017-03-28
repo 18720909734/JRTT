@@ -12,7 +12,7 @@ import dagger.Module;
 import dagger.Provides;
 
 /**
- * Created by long on 2016/11/30.
+ * Created by qiushengyuon 2016/11/30.
  * Video Module
  */
 @Module

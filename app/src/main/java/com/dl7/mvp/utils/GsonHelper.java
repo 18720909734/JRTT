@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by long on 2016/5/9.
+ * Created by qiushengyuon 2016/5/9.
  * Gson数据转化处理
  */
 public final class GsonHelper {

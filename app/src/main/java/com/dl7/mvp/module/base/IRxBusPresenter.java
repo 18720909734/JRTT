@@ -3,7 +3,7 @@ package com.dl7.mvp.module.base;
 import rx.functions.Action1;
 
 /**
- * Created by long on 2016/9/2.
+ * Created by qiushengyuon 2016/9/2.
  * RxBus Presenter
  */
 public interface IRxBusPresenter extends IBasePresenter {

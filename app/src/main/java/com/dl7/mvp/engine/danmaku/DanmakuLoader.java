@@ -8,7 +8,7 @@ import master.flame.danmaku.danmaku.loader.ILoader;
 import master.flame.danmaku.danmaku.loader.IllegalDataException;
 
 /**
- * Created by long on 2016/12/22.
+ * Created by qiushengyuon 2016/12/22.
  * 自定义弹幕加载器,参考A站
  */
 public class DanmakuLoader implements ILoader {

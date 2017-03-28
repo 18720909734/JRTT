@@ -18,7 +18,7 @@ import master.flame.danmaku.danmaku.parser.IDataSource;
 import master.flame.danmaku.danmaku.util.IOUtils;
 
 /**
- * Created by long on 2016/12/22.
+ * Created by qiushengyuon 2016/12/22.
  * 自定义弹幕数据源，参考A站
  */
 public class JsonStrSource implements IDataSource<String> {

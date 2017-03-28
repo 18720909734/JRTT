@@ -13,7 +13,7 @@ import rx.Subscriber;
 import rx.functions.Action0;
 
 /**
- * Created by long on 2016/9/5.
+ * Created by qiushengyuon 2016/9/5.
  * 图片新闻列表 Presenter
  */
 public class PhotoNewsPresenter implements IBasePresenter {

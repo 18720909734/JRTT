@@ -23,7 +23,7 @@ import com.flyco.labelview.LabelView;
 import java.util.List;
 
 /**
- * Created by long on 2016/8/24.
+ * Created by qiushengyuon 2016/8/24.
  * 新闻列表适配器
  */
 public class NewsMultiListAdapter extends BaseMultiItemQuickAdapter<NewsMultiItem> {

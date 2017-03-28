@@ -42,7 +42,7 @@ import rx.functions.Func1;
 import rx.schedulers.Schedulers;
 
 /**
- * Created by long on 2016/8/22.
+ * Created by qiushengyuon 2016/8/22.
  * 整个网络通信服务的启动控制，必须先调用初始化函数才能正常使用网络通信接口
  */
 public class RetrofitService {

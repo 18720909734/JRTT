@@ -3,7 +3,7 @@ package com.dl7.mvp.module.base;
 import java.util.List;
 
 /**
- * Created by long on 2016/9/28.
+ * Created by qiushengyuon 2016/9/28.
  * 和本地数据关联的界面接口
  */
 public interface ILocalView<T> {

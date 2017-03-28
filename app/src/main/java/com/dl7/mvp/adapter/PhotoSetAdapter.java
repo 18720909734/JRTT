@@ -20,7 +20,7 @@ import uk.co.senab.photoview.PhotoView;
 import uk.co.senab.photoview.PhotoViewAttacher;
 
 /**
- * Created by long on 2016/9/28.
+ * Created by qiushengyuon 2016/9/28.
  * 图集 Adapter
  */
 public class PhotoSetAdapter extends PagerAdapter {

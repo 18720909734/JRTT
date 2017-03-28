@@ -1,7 +1,7 @@
 package com.dl7.player.danmaku;
 
 /**
- * Created by long on 2016/12/22.
+ * Created by qiushengyuon 2016/12/22.
  * 弹幕监听器
  */
 public interface OnDanmakuListener<T> {

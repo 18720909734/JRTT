@@ -4,7 +4,7 @@ import android.support.design.widget.AppBarLayout;
 import android.support.v4.widget.SwipeRefreshLayout;
 
 /**
- * Created by long on 2016/12/1.
+ * Created by qiushengyuon 2016/12/1.
  * 下拉刷新帮助类
  */
 public class SwipeRefreshHelper {

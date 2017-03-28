@@ -13,7 +13,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.functions.Action1;
 
 /**
- * Created by long on 2016/9/1.
+ * Created by qiushengyuon 2016/9/1.
  * 主页 Presenter
  */
 public class NewsMainPresenter implements IRxBusPresenter {

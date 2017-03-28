@@ -6,7 +6,7 @@ import com.dl7.downloaderlib.model.DownloadStatus;
 import com.dl7.downloaderlib.service.DownloadThreadPool;
 
 /**
- * Created by long on 2016/5/26.
+ * Created by qiushengyuon 2016/5/26.
  * 封装下载监听器
  */
 public final class ListenerDecorator implements DownloadListener {

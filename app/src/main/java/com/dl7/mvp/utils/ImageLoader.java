@@ -12,7 +12,7 @@ import java.io.File;
 import java.util.concurrent.ExecutionException;
 
 /**
- * Created by long on 2016/8/23.
+ * Created by qiushengyuon 2016/8/23.
  * 图片加载帮助类
  * 不加 dontAnimate()，有的机型会出现图片变形的情况，先记下找到更好的方法再处理
  */

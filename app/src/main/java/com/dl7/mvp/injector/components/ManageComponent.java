@@ -7,7 +7,7 @@ import com.dl7.mvp.module.news.channel.ChannelActivity;
 import dagger.Component;
 
 /**
- * Created by long on 2016/8/31.
+ * Created by qiushengyuon 2016/8/31.
  * 管理 Component
  */
 @PerActivity

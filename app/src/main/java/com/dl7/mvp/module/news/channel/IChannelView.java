@@ -5,7 +5,7 @@ import com.dl7.mvp.local.table.NewsTypeInfo;
 import java.util.List;
 
 /**
- * Created by long on 2016/9/1.
+ * Created by qiushengyuon 2016/9/1.
  * 栏目管理接口
  */
 public interface IChannelView {

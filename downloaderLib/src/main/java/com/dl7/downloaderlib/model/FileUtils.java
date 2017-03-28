@@ -10,7 +10,7 @@ import java.io.RandomAccessFile;
 import java.util.Locale;
 
 /**
- * Created by long on 2016/5/26.
+ * Created by qiushengyuon 2016/5/26.
  * 文件工具类
  */
 public class FileUtils {

@@ -14,7 +14,7 @@ import com.dl7.mvp.module.news.photoset.PhotoSetActivity;
 import com.dl7.mvp.module.news.special.SpecialActivity;
 
 /**
- * Created by long on 2016/8/24.
+ * Created by qiushengyuon 2016/8/24.
  * 滑动器帮助类
  */
 public final class SliderHelper {

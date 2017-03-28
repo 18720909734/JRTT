@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by long on 2016/12/16.
+ * Created by qiushengyuon 2016/12/16.
  * 下载器封装
  */
 public final class DownloaderWrapper {

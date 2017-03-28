@@ -33,7 +33,7 @@ import jp.wasabeef.recyclerview.animators.SlideInLeftAnimator;
 import static android.app.Activity.RESULT_OK;
 
 /**
- * Created by long on 2016/12/13.
+ * Created by qiushengyuon 2016/12/13.
  * Video收藏界面
  */
 public class LoveVideoFragment extends BaseFragment<ILocalPresenter> implements ILocalView<VideoInfo> {

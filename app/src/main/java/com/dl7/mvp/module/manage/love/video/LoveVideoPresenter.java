@@ -15,7 +15,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.functions.Action1;
 
 /**
- * Created by long on 2016/12/13.
+ * Created by qiushengyuon 2016/12/13.
  * Video收藏 Presenter
  */
 public class LoveVideoPresenter implements ILocalPresenter<VideoInfo> {

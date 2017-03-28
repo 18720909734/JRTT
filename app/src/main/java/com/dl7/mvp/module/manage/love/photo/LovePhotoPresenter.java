@@ -13,7 +13,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.functions.Action1;
 
 /**
- * Created by long on 2016/9/28.
+ * Created by qiushengyuon 2016/9/28.
  * 收藏 Presenter
  */
 public class LovePhotoPresenter implements ILocalPresenter<BeautyPhotoInfo> {

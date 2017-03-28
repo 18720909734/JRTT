@@ -8,7 +8,7 @@ import rx.Subscription;
 import rx.functions.Action1;
 
 /**
- * Created by long on 2016/12/19.
+ * Created by qiushengyuon 2016/12/19.
  * video下载Presenter
  */
 public class DownloadPresenter implements IRxBusPresenter {

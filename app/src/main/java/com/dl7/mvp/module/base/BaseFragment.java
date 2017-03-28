@@ -23,7 +23,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
- * Created by long on 2016/5/31.
+ * Created by qiushengyuon 2016/5/31.
  * 碎片基类
  */
 public abstract class BaseFragment<T extends IBasePresenter> extends RxFragment implements IBaseView {

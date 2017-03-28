@@ -1,7 +1,7 @@
 package com.dl7.mvp.utils;
 
 /**
- * Created by long on 2016/12/15.
+ * Created by qiushengyuon 2016/12/15.
  * 通用常量
  */
 public final class CommonConstant {

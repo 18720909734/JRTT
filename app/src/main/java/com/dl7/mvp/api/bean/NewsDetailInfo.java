@@ -3,7 +3,7 @@ package com.dl7.mvp.api.bean;
 import java.util.List;
 
 /**
- * Created by long on 2016/8/23.
+ * Created by qiushengyuon 2016/8/23.
  * 新闻详情
  */
 public class NewsDetailInfo {

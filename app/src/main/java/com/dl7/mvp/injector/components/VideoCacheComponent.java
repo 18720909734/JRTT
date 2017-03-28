@@ -7,7 +7,7 @@ import com.dl7.mvp.module.manage.download.cache.VideoCacheFragment;
 import dagger.Component;
 
 /**
- * Created by long on 2016/12/16.
+ * Created by qiushengyuon 2016/12/16.
  * video缓存Component
  */
 @PerFragment

@@ -12,7 +12,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Created by long on 2016/8/29.
+ * Created by qiushengyuon 2016/8/29.
  * 字符串工具
  */
 public class StringUtils {

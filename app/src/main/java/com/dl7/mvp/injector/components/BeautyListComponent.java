@@ -7,7 +7,7 @@ import com.dl7.mvp.module.photo.beauty.BeautyListFragment;
 import dagger.Component;
 
 /**
- * Created by long on 2016/9/5.
+ * Created by qiushengyuon 2016/9/5.
  * 美图 PerFragment
  */
 @PerFragment

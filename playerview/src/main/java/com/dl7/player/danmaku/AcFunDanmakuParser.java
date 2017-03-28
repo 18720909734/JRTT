@@ -13,7 +13,7 @@ import master.flame.danmaku.danmaku.parser.android.JSONSource;
 import master.flame.danmaku.danmaku.util.DanmakuUtils;
 
 /**
- * Created by long on 2016/12/22.
+ * Created by qiushengyuon 2016/12/22.
  * A站弹幕解析器
  */
 public class AcFunDanmakuParser extends BaseDanmakuParser {

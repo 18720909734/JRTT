@@ -7,7 +7,7 @@ import com.dl7.mvp.module.base.IBaseView;
 import java.util.List;
 
 /**
- * Created by long on 2016/8/26.
+ * Created by qiushengyuon 2016/8/26.
  * 专题View接口
  */
 public interface ISpecialView extends IBaseView {

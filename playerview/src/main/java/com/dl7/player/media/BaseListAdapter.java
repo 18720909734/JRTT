@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by long on 2016/6/7.
+ * Created by qiushengyuon 2016/6/7.
  * ListView的基础适配器
  */
 public abstract class BaseListAdapter<T> extends BaseAdapter {

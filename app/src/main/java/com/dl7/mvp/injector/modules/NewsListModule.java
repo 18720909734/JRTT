@@ -11,7 +11,7 @@ import dagger.Module;
 import dagger.Provides;
 
 /**
- * Created by long on 2016/8/23.
+ * Created by qiushengyuon 2016/8/23.
  * 新闻列表 Module
  */
 @Module

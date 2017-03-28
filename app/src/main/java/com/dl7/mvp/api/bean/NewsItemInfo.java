@@ -1,7 +1,7 @@
 package com.dl7.mvp.api.bean;
 
 /**
- * Created by long on 2016/8/26.
+ * Created by qiushengyuon 2016/8/26.
  * 整合专题和详情的新闻列表实体
  */
 public class NewsItemInfo {

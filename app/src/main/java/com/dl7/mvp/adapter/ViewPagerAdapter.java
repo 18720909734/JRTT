@@ -11,7 +11,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by long on 2016/6/2.
+ * Created by qiushengyuon 2016/6/2.
  * ViewPager适配器
  */
 public class ViewPagerAdapter extends FragmentStatePagerAdapter {

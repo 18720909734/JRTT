@@ -10,7 +10,7 @@ import rx.Observable;
 import static com.dl7.mvp.api.RetrofitService.CACHE_CONTROL_NETWORK;
 
 /**
- * Created by long on 2016/10/10.
+ * Created by qiushengyuon 2016/10/10.
  */
 
 public interface IWelfareApi {

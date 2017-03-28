@@ -21,7 +21,7 @@ import static com.dl7.mvp.api.RetrofitService.AVOID_HTTP403_FORBIDDEN;
 import static com.dl7.mvp.api.RetrofitService.CACHE_CONTROL_NETWORK;
 
 /**
- * Created by long on 2016/8/22.
+ * Created by qiushengyuon 2016/8/22.
  * API 接口
  */
 public interface INewsApi {

@@ -7,7 +7,7 @@ import com.dl7.mvp.module.news.article.NewsArticleActivity;
 import dagger.Component;
 
 /**
- * Created by long on 2017/2/3.
+ * Created by qiushengyuon 2017/2/3.
  * 新闻详情 Component
  */
 @PerActivity

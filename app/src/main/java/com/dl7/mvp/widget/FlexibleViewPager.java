@@ -5,7 +5,7 @@ import android.support.v4.view.ViewPager;
 import android.util.AttributeSet;
 
 /**
- * Created by long on 2016/12/19.
+ * Created by qiushengyuon 2016/12/19.
  * 扩展动态控制 ViewPager 滑动使能功能
  */
 public class FlexibleViewPager extends ViewPager {

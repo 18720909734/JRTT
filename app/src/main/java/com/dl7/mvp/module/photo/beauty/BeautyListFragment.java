@@ -22,7 +22,7 @@ import javax.inject.Inject;
 import butterknife.BindView;
 
 /**
- * Created by long on 2016/9/5.
+ * Created by qiushengyuon 2016/9/5.
  * 美女图片
  */
 public class BeautyListFragment extends BaseFragment<IBasePresenter> implements ILoadDataView<List<BeautyPhotoInfo>> {

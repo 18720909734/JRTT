@@ -7,7 +7,7 @@ import com.dl7.player.media.IjkPlayerView;
 import master.flame.danmaku.danmaku.model.AbsDanmakuSync;
 
 /**
- * Created by long on 2016/12/15.
+ * Created by qiushengyuon 2016/12/15.
  * 同步弹幕和video，貌似没法保持同步，可能我用的有问题- -
  */
 @Deprecated

@@ -13,7 +13,7 @@ import dagger.Module;
 import dagger.Provides;
 
 /**
- * Created by long on 2016/12/16.
+ * Created by qiushengyuon 2016/12/16.
  * video缓存Module
  */
 @Module

@@ -6,7 +6,7 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 
 /**
- * Created by long on 2016/12/22.
+ * Created by qiushengyuon 2016/12/22.
  * 处理 PhotoView 缩放异常的 ViewPager，详情查看issue
  */
 public class PhotoViewPager extends ViewPager {

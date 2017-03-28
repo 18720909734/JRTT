@@ -9,7 +9,7 @@ import com.dl7.mvp.widget.XFilePickerPreference;
 import com.orhanobut.logger.Logger;
 
 /**
- * Created by long on 2016/9/29.
+ * Created by qiushengyuon 2016/9/29.
  */
 public class SettingsFragment extends PreferenceFragment implements SharedPreferences.OnSharedPreferenceChangeListener {
 

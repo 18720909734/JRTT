@@ -3,7 +3,7 @@ package com.dl7.mvp.api.bean;
 import java.util.List;
 
 /**
- * Created by long on 2016/9/2.
+ * Created by qiushengyuon 2016/9/2.
  * 图片栏目列表实体
  */
 public class PhotoInfo {

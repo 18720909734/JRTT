@@ -24,7 +24,7 @@ import javax.inject.Inject;
 import butterknife.BindView;
 
 /**
- * Created by long on 2016/10/11.
+ * Created by qiushengyuon 2016/10/11.
  */
 public class VideoListFragment extends BaseFragment<IBasePresenter> implements ILoadDataView<List<VideoInfo>> {
 

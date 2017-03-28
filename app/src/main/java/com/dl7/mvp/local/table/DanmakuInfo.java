@@ -6,7 +6,7 @@ import org.greenrobot.greendao.annotation.Entity;
 import org.greenrobot.greendao.annotation.Generated;
 
 /**
- * Created by long on 2016/12/23.
+ * Created by qiushengyuon 2016/12/23.
  * 弹幕数据
  */
 @Entity

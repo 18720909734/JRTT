@@ -21,7 +21,7 @@ import com.flyco.labelview.LabelView;
 import java.util.List;
 
 /**
- * Created by long on 2016/8/26.
+ * Created by qiushengyuon 2016/8/26.
  * 专题列表适配器
  */
 public class SpecialAdapter extends BaseSectionQuickAdapter<SpecialItem> {

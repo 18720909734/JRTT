@@ -10,7 +10,7 @@ import org.greenrobot.greendao.annotation.Id;
 import org.greenrobot.greendao.annotation.Generated;
 
 /**
- * Created by long on 2016/10/11.
+ * Created by qiushengyuon 2016/10/11.
  * 视频实体
  */
 @Entity

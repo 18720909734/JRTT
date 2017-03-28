@@ -6,7 +6,7 @@ import com.dl7.player.danmaku.BaseDanmakuConverter;
 import master.flame.danmaku.danmaku.model.BaseDanmaku;
 
 /**
- * Created by long on 2016/12/22.
+ * Created by qiushengyuon 2016/12/22.
  * 弹幕数据转换器
  */
 public class DanmakuConverter extends BaseDanmakuConverter<DanmakuInfo> {

@@ -14,7 +14,7 @@ import com.orhanobut.logger.Logger;
 import static com.dl7.mvp.utils.CommonConstant.VIDEO_DATA_KEY;
 
 /**
- * Created by long on 2016/12/19.
+ * Created by qiushengyuon 2016/12/19.
  * 固定全屏video界面，用来播放缓存的video
  */
 public class VideoFullscreenActivity extends AppCompatActivity {

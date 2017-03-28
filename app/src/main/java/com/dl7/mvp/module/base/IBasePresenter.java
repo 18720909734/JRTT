@@ -1,7 +1,7 @@
 package com.dl7.mvp.module.base;
 
 /**
- * Created by long on 2016/8/23.
+ * Created by qiushengyuon 2016/8/23.
  * 基础 Presenter
  */
 public interface IBasePresenter {

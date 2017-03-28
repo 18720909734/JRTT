@@ -17,7 +17,7 @@ import com.dl7.mvp.utils.StringUtils;
 import com.dl7.recycler.adapter.BaseViewHolder;
 
 /**
- * Created by long on 2016/12/16.
+ * Created by qiushengyuon 2016/12/16.
  * video 缓存完成适配器
  */
 public class VideoCompleteAdapter extends BaseVideoDLAdapter {

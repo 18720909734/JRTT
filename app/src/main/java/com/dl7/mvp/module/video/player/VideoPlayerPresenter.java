@@ -18,7 +18,7 @@ import rx.functions.Action1;
 import rx.functions.Func1;
 
 /**
- * Created by long on 2016/11/30.
+ * Created by qiushengyuon 2016/11/30.
  * Video Presenter
  */
 public class VideoPlayerPresenter implements IVideoPresenter {

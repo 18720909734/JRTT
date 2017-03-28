@@ -11,7 +11,7 @@ import com.dl7.recycler.adapter.BaseQuickAdapter;
 import com.dl7.recycler.adapter.BaseViewHolder;
 
 /**
- * Created by long on 2016/12/13.
+ * Created by qiushengyuon 2016/12/13.
  * Video收藏适配器
  */
 public class VideoLoveAdapter extends BaseQuickAdapter<VideoInfo> {

@@ -4,7 +4,7 @@ import com.dl7.mvp.api.bean.NewsDetailInfo;
 import com.dl7.mvp.module.base.IBaseView;
 
 /**
- * Created by long on 2017/2/3.
+ * Created by qiushengyuon 2017/2/3.
  * 新闻详情接口
  */
 public interface INewsArticleView extends IBaseView {

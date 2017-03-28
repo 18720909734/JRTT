@@ -17,7 +17,7 @@ import rx.functions.Action1;
 import rx.functions.Func1;
 
 /**
- * Created by long on 2016/12/16.
+ * Created by qiushengyuon 2016/12/16.
  * video 缓存Presenter
  */
 public class VideoCachePresenter implements IRxBusPresenter {

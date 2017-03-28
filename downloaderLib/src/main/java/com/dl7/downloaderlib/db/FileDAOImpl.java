@@ -7,7 +7,7 @@ import com.dl7.downloaderlib.FileDownloader;
 import com.dl7.downloaderlib.entity.FileInfo;
 
 /**
- * Created by long on 2016/5/26.
+ * Created by qiushengyuon 2016/5/26.
  * 数据库访问实现类
  */
 public class FileDAOImpl implements FileDAO {

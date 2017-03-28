@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * Created by long on 2016/6/28.
+ * Created by qiushengyuon 2016/6/28.
  * Assets帮助类
  */
 public class AssetsHelper {

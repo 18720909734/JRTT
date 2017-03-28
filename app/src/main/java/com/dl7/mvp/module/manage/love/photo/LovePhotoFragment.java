@@ -31,7 +31,7 @@ import jp.wasabeef.recyclerview.animators.FlipInLeftYAnimator;
 import static android.app.Activity.RESULT_OK;
 
 /**
- * Created by long on 2016/12/13.
+ * Created by qiushengyuon 2016/12/13.
  * 图片收藏界面
  */
 public class LovePhotoFragment extends BaseFragment<ILocalPresenter> implements ILocalView<BeautyPhotoInfo> {

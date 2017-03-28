@@ -25,7 +25,7 @@ import org.greenrobot.greendao.database.Database;
 import java.io.File;
 
 /**
- * Created by long on 2016/8/19.
+ * Created by qiushengyuon 2016/8/19.
  * Application
  */
 public class AndroidApplication extends Application {

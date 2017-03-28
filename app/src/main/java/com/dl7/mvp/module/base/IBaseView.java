@@ -4,7 +4,7 @@ import com.dl7.mvp.widget.EmptyLayout;
 import com.trello.rxlifecycle.LifecycleTransformer;
 
 /**
- * Created by long on 2016/8/23.
+ * Created by qiushengyuon 2016/8/23.
  * 基础 BaseView 接口
  */
 public interface IBaseView {

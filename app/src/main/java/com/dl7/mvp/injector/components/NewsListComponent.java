@@ -7,7 +7,7 @@ import com.dl7.mvp.module.news.newslist.NewsListFragment;
 import dagger.Component;
 
 /**
- * Created by long on 2016/8/23.
+ * Created by qiushengyuon 2016/8/23.
  * 新闻列表 Component
  */
 @PerFragment

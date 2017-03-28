@@ -7,7 +7,7 @@ import com.dl7.mvp.module.photo.bigphoto.BigPhotoActivity;
 import dagger.Component;
 
 /**
- * Created by long on 2016/9/27.
+ * Created by qiushengyuon 2016/9/27.
  */
 @PerActivity
 @Component(dependencies = ApplicationComponent.class, modules = BigPhotoModule.class)

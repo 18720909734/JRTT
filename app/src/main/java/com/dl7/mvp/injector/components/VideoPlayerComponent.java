@@ -7,7 +7,7 @@ import com.dl7.mvp.module.video.player.VideoPlayerActivity;
 import dagger.Component;
 
 /**
- * Created by long on 2016/11/30.
+ * Created by qiushengyuon 2016/11/30.
  * Video Component
  */
 @PerActivity

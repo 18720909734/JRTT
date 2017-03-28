@@ -16,7 +16,7 @@ import com.dl7.recycler.adapter.BaseViewHolder;
 import java.util.List;
 
 /**
- * Created by long on 2016/8/25.
+ * Created by qiushengyuon 2016/8/25.
  * 相关新闻适配器
  */
 public class RelatedNewsAdapter extends BaseQuickAdapter<NewsItemInfo> {

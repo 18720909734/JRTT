@@ -15,7 +15,7 @@ import dagger.Module;
 import dagger.Provides;
 
 /**
- * Created by long on 2016/9/27.
+ * Created by qiushengyuon 2016/9/27.
  * 大图 Module
  */
 @PerActivity

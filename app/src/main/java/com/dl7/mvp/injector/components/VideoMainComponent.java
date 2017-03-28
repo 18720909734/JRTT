@@ -7,7 +7,7 @@ import com.dl7.mvp.module.video.main.VideoMainFragment;
 import dagger.Component;
 
 /**
- * Created by long on 2016/12/20.
+ * Created by qiushengyuon 2016/12/20.
  * 视频主界面 Component
  */
 @PerFragment

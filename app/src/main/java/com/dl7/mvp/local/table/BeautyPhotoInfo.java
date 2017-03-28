@@ -8,7 +8,7 @@ import org.greenrobot.greendao.annotation.Id;
 import org.greenrobot.greendao.annotation.Generated;
 
 /**
- * Created by long on 2016/9/2.
+ * Created by qiushengyuon 2016/9/2.
  * 美女图片
  */
 @Entity

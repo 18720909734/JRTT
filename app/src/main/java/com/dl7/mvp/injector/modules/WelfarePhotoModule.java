@@ -11,7 +11,7 @@ import dagger.Module;
 import dagger.Provides;
 
 /**
- * Created by long on 2016/10/11.
+ * Created by qiushengyuon 2016/10/11.
  * 福利图片界面 Module
  */
 @Module

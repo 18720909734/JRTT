@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by long on 2016/9/22.
+ * Created by qiushengyuon 2016/9/22.
  * 美图 Adapter
  */
 public class BeautyPhotosAdapter extends BaseQuickAdapter<BeautyPhotoInfo> {

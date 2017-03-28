@@ -9,7 +9,7 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 
 /**
- * Created by long on 2016/8/24.
+ * Created by qiushengyuon 2016/8/24.
  * 新闻复用列表项
  */
 public class NewsMultiItem extends MultiItemEntity {

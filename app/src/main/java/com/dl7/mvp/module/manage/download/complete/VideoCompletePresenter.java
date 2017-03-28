@@ -16,7 +16,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.functions.Action1;
 
 /**
- * Created by long on 2016/12/16.
+ * Created by qiushengyuon 2016/12/16.
  * video 缓存完成 Presenter
  */
 public class VideoCompletePresenter implements IRxBusPresenter {

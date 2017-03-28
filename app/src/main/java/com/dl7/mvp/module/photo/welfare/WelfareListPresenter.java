@@ -18,7 +18,7 @@ import rx.functions.Func1;
 import rx.schedulers.Schedulers;
 
 /**
- * Created by long on 2016/10/11.
+ * Created by qiushengyuon 2016/10/11.
  * 福利图片界面 Presenter
  */
 public class WelfareListPresenter implements IBasePresenter {

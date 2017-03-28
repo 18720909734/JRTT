@@ -10,7 +10,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * Created by long on 2016/9/2.
+ * Created by qiushengyuon 2016/9/2.
  * 数据库更新事件
  */
 public class ChannelEvent {

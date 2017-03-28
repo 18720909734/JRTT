@@ -4,7 +4,7 @@ import com.dl7.mvp.api.bean.PhotoSetInfo;
 import com.dl7.mvp.module.base.IBaseView;
 
 /**
- * Created by long on 2016/8/29.
+ * Created by qiushengyuon 2016/8/29.
  * 图集界面接口
  */
 public interface IPhotoSetView extends IBaseView {

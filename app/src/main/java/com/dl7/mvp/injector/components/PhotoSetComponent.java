@@ -7,7 +7,7 @@ import com.dl7.mvp.module.news.photoset.PhotoSetActivity;
 import dagger.Component;
 
 /**
- * Created by long on 2016/8/29.
+ * Created by qiushengyuon 2016/8/29.
  * 图集 Component
  */
 @PerActivity

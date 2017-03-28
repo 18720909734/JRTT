@@ -14,7 +14,7 @@ import javax.inject.Inject;
 import butterknife.BindView;
 
 /**
- * Created by long on 2016/12/20.
+ * Created by qiushengyuon 2016/12/20.
  * video下载的基类Fragment
  */
 public abstract class BaseVideoDLFragment<T extends IBasePresenter> extends BaseFragment<T> {

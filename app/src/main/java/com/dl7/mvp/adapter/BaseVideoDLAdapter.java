@@ -14,7 +14,7 @@ import com.dl7.recycler.adapter.BaseViewHolder;
 import com.orhanobut.logger.Logger;
 
 /**
- * Created by long on 2016/12/19.
+ * Created by qiushengyuon 2016/12/19.
  * video下载适配器基类
  */
 public abstract class BaseVideoDLAdapter extends BaseQuickAdapter<VideoInfo> {

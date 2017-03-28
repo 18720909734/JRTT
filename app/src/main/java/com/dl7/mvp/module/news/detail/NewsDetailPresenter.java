@@ -12,7 +12,7 @@ import rx.functions.Action0;
 import rx.functions.Action1;
 
 /**
- * Created by long on 2016/8/25.
+ * Created by qiushengyuon 2016/8/25.
  * 新闻详情 Presenter
  */
 @Deprecated

@@ -7,7 +7,7 @@ import com.dl7.mvp.module.manage.love.photo.LovePhotoFragment;
 import dagger.Component;
 
 /**
- * Created by long on 2016/12/13.
+ * Created by qiushengyuon 2016/12/13.
  * 图片收藏界面 Component
  */
 @PerFragment

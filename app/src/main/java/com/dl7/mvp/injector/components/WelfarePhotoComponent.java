@@ -7,7 +7,7 @@ import com.dl7.mvp.module.photo.welfare.WelfareListFragment;
 import dagger.Component;
 
 /**
- * Created by long on 2016/10/11.
+ * Created by qiushengyuon 2016/10/11.
  * 福利图片界面 Component
  */
 @PerFragment

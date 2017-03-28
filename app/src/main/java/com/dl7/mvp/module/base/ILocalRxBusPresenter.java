@@ -3,7 +3,7 @@ package com.dl7.mvp.module.base;
 import java.util.List;
 
 /**
- * Created by long on 2016/12/19.
+ * Created by qiushengyuon 2016/12/19.
  */
 
 public interface ILocalRxBusPresenter<E> extends IRxBusPresenter {

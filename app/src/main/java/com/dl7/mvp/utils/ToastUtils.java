@@ -4,7 +4,7 @@ import android.content.Context;
 import android.widget.Toast;
 
 /**
- * Created by long on 2016/6/6.
+ * Created by qiushengyuon 2016/6/6.
  * 避免同样的信息多次触发重复弹出的问题
  */
 public class ToastUtils {

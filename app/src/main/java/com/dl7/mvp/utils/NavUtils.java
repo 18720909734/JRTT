@@ -6,7 +6,7 @@ import android.content.res.Resources;
 import java.lang.reflect.Method;
 
 /**
- * Created by long on 2016/10/10.
+ * Created by qiushengyuon 2016/10/10.
  * 导航栏工具类
  */
 public final class NavUtils {

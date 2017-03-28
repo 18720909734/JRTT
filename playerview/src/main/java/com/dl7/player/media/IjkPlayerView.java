@@ -95,7 +95,7 @@ import static com.dl7.player.utils.StringUtils.generateTime;
 import static tv.danmaku.ijk.media.player.IMediaPlayer.OnInfoListener;
 
 /**
- * Created by long on 2016/10/24.
+ * Created by qiushengyuon 2016/10/24.
  */
 public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
 

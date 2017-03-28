@@ -6,7 +6,7 @@ import com.dl7.mvp.module.base.IBaseView;
 import java.io.InputStream;
 
 /**
- * Created by long on 2016/12/23.
+ * Created by qiushengyuon 2016/12/23.
  * Video接口
  */
 public interface IVideoView extends IBaseView {

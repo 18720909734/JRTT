@@ -21,7 +21,7 @@ import butterknife.BindView;
 import jp.wasabeef.recyclerview.adapters.SlideInBottomAnimationAdapter;
 
 /**
- * Created by long on 2016/9/5.
+ * Created by qiushengyuon 2016/9/5.
  * 图片新闻列表
  */
 public class PhotoNewsFragment extends BaseFragment<IBasePresenter> implements ILoadDataView<List<PhotoInfo>> {

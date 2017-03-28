@@ -5,7 +5,7 @@ import com.dl7.mvp.R;
 import java.util.Random;
 
 /**
- * Created by long on 2016/9/23.
+ * Created by qiushengyuon 2016/9/23.
  * 默认背景工厂类
  */
 public final class DefIconFactory {

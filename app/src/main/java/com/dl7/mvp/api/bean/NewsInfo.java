@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by long on 2016/8/22.
+ * Created by qiushengyuon 2016/8/22.
  * 新闻实体
  */
 public final class NewsInfo implements Parcelable {

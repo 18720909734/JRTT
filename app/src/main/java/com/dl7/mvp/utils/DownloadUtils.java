@@ -21,7 +21,7 @@ import rx.functions.Func1;
 import rx.schedulers.Schedulers;
 
 /**
- * Created by long on 2016/10/10.
+ * Created by qiushengyuon 2016/10/10.
  * 下载工具类
  */
 public final class DownloadUtils {

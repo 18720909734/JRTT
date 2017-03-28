@@ -4,7 +4,7 @@ import com.dl7.mvp.api.bean.NewsDetailInfo;
 import com.dl7.mvp.module.base.IBaseView;
 
 /**
- * Created by long on 2016/8/25.
+ * Created by qiushengyuon 2016/8/25.
  * 新闻详情接口
  */
 @Deprecated

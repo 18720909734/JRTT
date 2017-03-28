@@ -19,7 +19,7 @@ import com.dl7.mvp.R;
 
 
 /**
- * Created by long on 2016/1/5.
+ * Created by qiushengyuon 2016/1/5.
  * Web控件
  */
 public class CustomWebView extends WebView {

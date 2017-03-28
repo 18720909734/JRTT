@@ -1,7 +1,7 @@
 package com.dl7.mvp.api;
 
 /**
- * Created by long on 2016/8/31.
+ * Created by qiushengyuon 2016/8/31.
  * 新闻常量
  */
 public final class NewsConst {

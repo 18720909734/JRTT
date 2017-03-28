@@ -13,7 +13,7 @@ import com.dl7.mvp.utils.AnimateHelper;
 
 
 /**
- * Created by long on 2017/1/12.
+ * Created by qiushengyuon 2017/1/12.
  * 可滚动超出上拉的 ScrollView
  */
 public class PullScrollView extends NestedScrollView {

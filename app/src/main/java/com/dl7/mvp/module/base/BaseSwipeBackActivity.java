@@ -7,7 +7,7 @@ import android.os.Bundle;
 import com.dl7.mvp.widget.SwipeBackLayout;
 
 /**
- * Created by long on 2017/1/19.
+ * Created by qiushengyuon 2017/1/19.
  * 滑动退出Activity，参考：https://github.com/ikew0ng/SwipeBackLayout
  */
 public abstract class BaseSwipeBackActivity<T extends IBasePresenter> extends BaseActivity<T> {

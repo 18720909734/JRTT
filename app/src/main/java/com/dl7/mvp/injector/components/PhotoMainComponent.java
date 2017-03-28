@@ -7,7 +7,7 @@ import com.dl7.mvp.module.photo.main.PhotoMainFragment;
 import dagger.Component;
 
 /**
- * Created by long on 2016/12/20.
+ * Created by qiushengyuon 2016/12/20.
  * 图片 Component
  */
 @PerFragment
